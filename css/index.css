@@ -1,3 +1,14 @@
 body{
   background-color: yellow;
+color: #181818;
+}
+.is-open-menu {
+}
+.is-open-menu .ir{
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: #ff0;
+  background-image: url("../images/navigation-button.gif");
+  background-repeat: no-repeat;
 }
